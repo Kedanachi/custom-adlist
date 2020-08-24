@@ -21208,7 +21208,6 @@ auto.mail.ru##.mailru-visibility-check-counter + div
 auto.mail.ru#?#.mailru-visibility-check:-abp-has(> [target="_blank"][href^="https://r.mail.ru/"])
 auto.mail.ru##.pm-toolbar a[href="https://auto.mail.ru/info/insurance/"]
 auto.mail.ru##.rb_loaded.rb_main-240x400.js-module
-@@||auto.mail.ru^$generichide
 auto.mail.ru##[class*="grid"] > .grid__item_banner
 auto.mail.ru##a[href="/info/osago/"]
 auto.mail.ru##a[href="https://auto.mail.ru/info/osago/"]
@@ -21241,7 +21240,6 @@ deti.mail.ru##.cols__inner > [data-module="Toggle.comments"] ~ div[class^="margi
 deti.mail.ru##.js-popup_gallery .viewbox__side
 deti.mail.ru##.js-smoky-end > .rb_loaded
 deti.mail.ru#?#.mailru-visibility-check:-abp-has(> [target="_blank"][href^="https://r.mail.ru/"])
-@@||deti.mail.ru^$generichide
 deti.mail.ru#?#body [class*="o"] div[id^="trg-"]:-abp-has(> *)
 deti.mail.ru#?#body [class*="o"] div[id^="yandex_ad"]:-abp-has(> *)
 deti.mail.ru##tr > .daynews__spring
@@ -21250,7 +21248,6 @@ health.mail.ru#?#.column_sidebar .margin_bottom_20:-abp-has([data-adq-id])
 health.mail.ru##.fromPartners3
 health.mail.ru##.js-banner
 health.mail.ru##.js-popup_gallery .viewbox__side
-@@||health.mail.ru^$generichide
 health.mail.ru##div[class*="page"] .rb
 health.mail.ru##div[class*="page"] div[data-adq-id]
 health.mail.ru##div[data-adq-id]
@@ -21265,7 +21262,6 @@ kino.mail.ru##.m-photo-stories__banner
 kino.mail.ru##.mailru-visibility-check div[style*="250"]
 kino.mail.ru##.mailru-visibility-check-counter ~ div
 kino.mail.ru#?#.mailru-visibility-check:-abp-has(> [target="_blank"][href^="https://r.mail.ru/"])
-@@||kino.mail.ru^$generichide
 kino.mail.ru##body .block [class] > div[class*="commerc"]
 kino.mail.ru#?#body [class*="o"] div[id^="trg-"]:-abp-has(> *)
 kino.mail.ru#?#body [class*="o"] div[id^="yandex_ad"]:-abp-has(> *)
@@ -21281,7 +21277,6 @@ lady.mail.ru##.js-smoky-single
 lady.mail.ru##.layout .js-module .block[id^="rb"]
 lady.mail.ru##.mailru-visibility-check
 lady.mail.ru##.sticky-springs__item
-@@||lady.mail.ru^$generichide
 lady.mail.ru##body [class*="o"] div[id^="trg-"]
 lady.mail.ru##body [class*="o"] div[id^="yandex_ad"]
 lady.mail.ru##div[class*=" rb_"]
@@ -21319,7 +21314,6 @@ realty.mail.ru##.js-popup_gallery .viewbox__side
 realty.mail.ru##.js-smoky-end
 realty.mail.ru##.layout .js-module .rb
 realty.mail.ru##.sticky-springs
-@@||realty.mail.ru^$generichide
 realty.mail.ru#?#body [class*="o"] div[id^="trg-"]:-abp-has(> *)
 realty.mail.ru#?#body [class*="o"] div[id^="yandex_ad"]:-abp-has(> *)
 realty.mail.ru##div[class][data-module^="TopMail.Special."]
@@ -21348,10 +21342,8 @@ news.mail.ru#?#div[class*="rb_"]:-abp-has([id*="yandex_"])
 cloud.mail.ru##.content__along > div[id]:not(#react-public-upload):not([title]):not([class]):not([data-classes])
 cloud.mail.ru##.public__content > div[id]:not(#react-public-upload):not([title]):not([class]):not([data-classes])
 cloud.mail.ru##.w-public__content > .b-layout div[id][class][style="width: 240px;"]
-@@||an.yandex.ru/system/context.js$domain=cloud.mail.ru
 ! Ответы
 otvet.mail.ru#?#.mailru-visibility-check:-abp-has([target="_blank"])
-@@||otvet.mail.ru^$generichide
 otvet.mail.ru##body > iframe[src*="blob:"]
 otvet.mail.ru##div[class^="wrapper_"] > div[class^="block_"] > div:empty
 ! Погода
@@ -21382,8 +21374,6 @@ e.mail.ru###app-canvas .layout__overflow-container > .slot
 e.mail.ru###message-sent__rb-center-container
 e.mail.ru##.layer-sent-page__banner
 e.mail.ru##.letter-list-item-adv
-@@||e.mail.ru^$generichide
-@@||octavius.mail.ru^$generichide
 ! Спорт
 sportmail.ru##.article__item_conversionlink
 sportmail.ru##.bannered__right
@@ -22820,10 +22810,8 @@ kinogo-720.net#@#.ya-share2
 @@/images/google-play-clear$domain=context.reverso.net
 @@/images/star_share.png|$image,domain=agorov.org|animevost.am|animevost.org|animevost.site|smotret-anime-365.ru
 @@/informer.php$image,domain=day-x.narod.ru
-@@/jquery.min.js$script,domain=cars.mail.ru
 @@/js/player/adv_dist/videojs.ads.$script,stylesheet,domain=smotri.com|video.reset.ru
 @@/media/banners/*$domain=zakaz.ua|zapals.com
-@@/modernizr.js$script,domain=cars.mail.ru
 @@/pic/editorv*.js|$script,domain=a-dot-kinozal-tv.appspot.com|kinozal-me.appspot.com|kinozal-tv.appspot.com
 @@/pic/jquery-*.min.js|$script,domain=a-dot-kinozal-tv.appspot.com|kinozal-me.appspot.com|kinozal-tv.appspot.com
 @@/pic/use.js$script,domain=a-dot-kinozal-tv.appspot.com|kinozal-me.appspot.com|kinozal-tv.appspot.com
@@ -22865,9 +22853,6 @@ kinogo-720.net#@#.ya-share2
 @@||absolut-groups.ru^*_ad4.$domain=absolut-groups.ru
 @@||acint.net/aci.js$script,domain=giantessa.ru
 @@||ad.admitad.com^$subdocument,domain=magazinkeshbek.ru|zoloo.ru
-@@||ad.mail.ru/static/admanhtml/*rbadman-html5.min.js|$script,domain=my.mail.ru
-@@||ad.mail.ru/vast/*interakt&$xmlhttprequest,domain=promodj.com
-@@||ad.mail.ru^$object,script,domain=ssl-app.ru
 @@||ad4.liverail.com/?LR_PUBLISHER_ID=$domain=moevideo.net
 @@||adcast.ru/mtsweb?$domain=mts.ru
 @@||adengine.rt.ru^$domain=rt.ru
@@ -23183,7 +23168,6 @@ kinogo-720.net#@#.ya-share2
 @@||nemp.com.ua/uploads$image,domain=nemp.com.ua
 @@||neutralen.nl/html5/moon/$third-party,script
 @@||newauction.ru/banners$image,domain=newauction.ru
-@@||news.mail.ru/js/common/vendor/highstock.js$script,domain=news.mail.ru
 @@||news.ru/public/common/js/jquery-3.3.1.min.js|$script,domain=news.ru
 @@||newsland.com/*_iframe_postload$subdocument
 @@||ngads.com/crossdomain.xml|$domain=kongregate.com
@@ -23543,8 +23527,6 @@ buildplayer.com,bxfilm.org,delivembed.cc,embedstorage.net,filmets.life,kinogo2.b
 @@|http://octomarket.com/j2/$script,domain=tapochek.net
 @@||1plus1.video/static/pubads.ad?_$xmlhttprequest,domain=1plus1.video
 @@||a.edirect.efind.ru^$script,domain=texnic.ru
-@@||ad.mail.ru/adp/$xmlhttprequest,domain=pets.mail.ru
-@@||ad.mail.ru/vast/$xmlhttprequest,domain=video.khl.ru
 @@||adbetnet.advertserve.com/js/libcode*.js|$script,domain=livesport.ws
 @@||adclixx.net^$script,domain=spec-komp.com
 @@||adfox.ru/crossdomain.xml$domain=carambatv.ru|out.pladform.ru
@@ -23604,7 +23586,6 @@ buildplayer.com,bxfilm.org,delivembed.cc,embedstorage.net,filmets.life,kinogo2.b
 @@||gamesglue.com/game_core/check/ima3.js|$script,domain=gameswf.com
 @@||gemius.pl/gplayer.js|$script,domain=1plus1.video
 @@||gig.md^*/reklama/$domain=gig.md
-@@||go.mail.ru^*/adptest$script,domain=go.mail.ru
 @@||googleads.g.doubleclick.net/$xmlhttprequest,domain=cdnneedtv.ru|cdnpotok.com|cdntelesee.com|chepok.xyz|domatv.net|gamemag.ru|hdone.net|hindcine.tv|kipolino.site|klplayer.website|oneliketv.com|pokaz.me|sovetromantica.com|src.media-base.co|starserial.ru|tivix.co|viks.tv
 @@||googleadservices.com/pagead/conversion.js$script,domain=rzn.info
 @@||googlesyndication.com/pagead/images/$domain=spruto.tv
@@ -23696,7 +23677,6 @@ buildplayer.com,bxfilm.org,delivembed.cc,embedstorage.net,filmets.life,kinogo2.b
 @@||tab.reformal.ru^$image,domain=audioskazki.net
 @@||tests24.ru/*.js|$script,domain=tests24.ru
 @@||testserver.pro/js/adriver.js$script,domain=testserver.pro
-@@||top-abd.mail.ru^$script,domain=mail.ru
 @@||true-detective-online.ru/js/adv.js$script,domain=true-detective-online.ru
 @@||tutkatamka.com.ua/*_advertisement.$script,domain=tutkatamka.com.ua
 @@||tvigle.ru/static/js/adriver.js$script,domain=tvigle.ru
@@ -87718,3 +87698,4 @@ www.google.com#@##videoads
 
 ! Custom section
 ||vk.com
+||mail.ru
